@@ -9,5 +9,6 @@
 </head>
 <body>
     <h2>Primer plato</h2>
+    <p>Ensalada templada de queso de cabra con frutos secos y vinagreta de miel</p>
 </body>
 </html>
