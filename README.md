@@ -1,5 +1,13 @@
-# GarciaEnric_ASIX1_0373_A01_MenuSaludable
-## PRIMER REPOSITORIO DEL CURSO 25-26 DE ASIX1
-### Es mi primera toma de contacto con GitHub
-#### Soy Enric  
-"# GarciaEnric_ASIX1_0373_A01_MenuSaludable" 
+# GarciaEnric_ASIX1_0373_A01_MenuSaludable 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Primer plato</h1>
+</body>
+</html>
